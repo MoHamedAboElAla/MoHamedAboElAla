@@ -37,7 +37,7 @@
 ### 🚀 Featured Projects
 - 🏨 **Hotel Booking System**  
   ASP.NET Core Web API, EF Core, SQL Server, Angular, JWT  
-  🔗 https://github.com/MoHamedAboElAla/HotelBookingApi
+  🔗 https://github.com/MoHamedAboElAla/HotelBookingApi<br>
   🔗 https://github.com/MoHamedAboElAla/HotelBookingAngular
 
 

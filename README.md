@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🎓 BSc in Computer & Information Science – Zagazig University (GPA: 3.3)
 - 🧠 ITI Graduate – Full Stack .NET (Intake 2025)
-- 🔭 Currently working on **Gym Management System**
+- 🔭 Currently working on **Booking System**
 - 🌱 Learning **Angular** & improving frontend skills
 - 💼 Freelance Backend Developer (ASP.NET Core)
 - 📫 Reach me at: **mo2.prog@gmail.com**

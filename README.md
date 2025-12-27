@@ -67,7 +67,4 @@
 <a href="https://github.com/MoHamedAboElAla" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
 </a>
-<a href="https://codeforces.com/profile/mohamedaboelala" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="30"/>
-</a>
 </p>
